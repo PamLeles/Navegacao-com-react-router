@@ -1,9 +1,9 @@
 import './Content.css'
 import React from "react";
 
-const Content = (props) =>{
+const Content = (props) =>(
     <main className="Content">
-        Compenente Content
+        <h1>Compenente Content</h1>
     </main>
-}
+)
 export default Content;
