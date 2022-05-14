@@ -6,10 +6,10 @@ const Menu = (props) => (
         <nav>
             <ul>
                 <li>
-                    <a href="/">Início</a>
+                    <a to="/">Início</a>
                 </li>
                 <li>
-                    <a href="/">Sobre</a>
+                    <a to="/about">Sobre</a>
                 </li>
             </ul>
         </nav>
